@@ -1,0 +1,71 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 635M    (ID=0xde3)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+FMOD failed to initialize the output device, attempting to initialize the null output.
+ 
+(Filename:  Line: 1076)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  1.025 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Seth\Documents\Blockbustersss\Blockbuster\BreakEmUp v 1_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.406941 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 402.
+Total: 0.468251 ms (FindLiveObjects: 0.048749 ms CreateObjectMapping: 0.041479 ms MarkObjects: 0.360489 ms  DeleteObjects: 0.014111 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.964299 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.466541 ms (FindLiveObjects: 0.027795 ms CreateObjectMapping: 0.022664 ms MarkObjects: 0.380160 ms  DeleteObjects: 0.034637 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.337617 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.492198 ms (FindLiveObjects: 0.100064 ms CreateObjectMapping: 0.025229 ms MarkObjects: 0.357068 ms  DeleteObjects: 0.008124 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.899727 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 201.
+Total: 0.472955 ms (FindLiveObjects: 0.032072 ms CreateObjectMapping: 0.022236 ms MarkObjects: 0.409239 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.854826 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.431903 ms (FindLiveObjects: 0.028651 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.373318 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.649137 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 402.
+Total: 0.330128 ms (FindLiveObjects: 0.034210 ms CreateObjectMapping: 0.021381 ms MarkObjects: 0.267694 ms  DeleteObjects: 0.005559 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.927523 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.506310 ms (FindLiveObjects: 0.027368 ms CreateObjectMapping: 0.020098 ms MarkObjects: 0.426771 ms  DeleteObjects: 0.030789 ms)
+
